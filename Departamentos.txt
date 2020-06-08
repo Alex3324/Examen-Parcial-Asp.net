@@ -1,0 +1,20 @@
+01
+Guatemala
+02
+Progreso
+03
+Sacatepequez
+04
+Chimaltenango
+05
+Escuintla
+06 
+Santa Rosa
+07
+Solola
+08
+Totonicapan
+09
+Quetzaltenango
+10
+Suchitepequez
